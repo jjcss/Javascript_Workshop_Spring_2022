@@ -5,7 +5,7 @@
 <!-- <a href="https://ibb.co/Rpm6Cr3"><img src="https://i.ibb.co/8Dpxjvr/CSS-Tech-Interview-Prep.png" alt="CSS-Tech-Interview-Prep" border="0" style="width: 200px; height: 250px"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /> -->
 
 # Javascript Workshop
-<p>You'll find the starter code that we'll be using for today's demo in this repository. Make sure you download all the files and open up the downloaded folder inside of Visual Studio Code. Please downlaod VS Code if you haven't already, before the demo begins.
+<p>You'll find the starter code that we'll be using for today's demo in this repository. Make sure you download all the files and open up the downloaded folder inside of Visual Studio Code. Please downlaod VS Code if you haven't already, before the demo begins. <br>
 <i> This repo will be updated after the meeting today. It will also contain the completed code </i>
 
 ### Zoom Recording

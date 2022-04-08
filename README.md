@@ -19,7 +19,7 @@
 <!-- - [Best Youtuber to Understand Data Structures using Python](https://www.youtube.com/c/NeetCode) -->
 
 ### Next CSS Club Workshop
-[Club Election Link](https://jjay-cuny.zoom.us/meeting/register/tZUpd-CgqD8vHdIYOd56RnjbfUyYoJ54qLUq) <br>
+[Club Election ZOOM Link](https://jjay-cuny.zoom.us/meeting/register/tZUpd-CgqD8vHdIYOd56RnjbfUyYoJ54qLUq) <br>
 <b>Description:</b> Electing new executives for the CSS Club. Anyone is welcome to apply (link below). The deadline to apply is April 23rd, the latest. <br>
 <b>Date:</b> April 26th, 2022 <br>
 <b>Time</b>: 1:40PM - 2:10PM <br>

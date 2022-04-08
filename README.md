@@ -6,11 +6,9 @@
 
 # Javascript Workshop
 
-Thank you all for joining us for our **Technical Interview Prep Workshop on March, 29th, 2022**. For anyone who missed the meeting, we talked about what technical interviews are, how to prepare for them, what Big O Notation is and we also went over common algorithms like Binary Search and Sorting (through LeetCode).
+<i> This repo will be updated after the meeting today. It will also contain the completed code </i>
 
-We hope that you all learned a few valuable skills Below you will find the Zoom recording, and for additional resources on preparing for **Technical Interviews**, checkout out our presentation slides. Below is **information on our next workshop**, too. 
-
-### Dropbox Recording
+### Zoom Recording
 <!-- [Dropbox](https://www.dropbox.com/s/a5yjutyb7pf8lf6/CSS_Tech_Prep.mp4?dl=0) -->
 
 ### Presentation Slides

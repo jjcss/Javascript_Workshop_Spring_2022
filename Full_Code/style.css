@@ -1,0 +1,73 @@
+/* Question Mark box placement */
+.input {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 10%;
+    left: 49%;
+    font-size: 30px;
+    background-color: white;
+}
+
+/* middle section */
+
+/* main container */
+.block {
+    display: flex;
+    text-align: center;
+    
+}
+
+/* first container inside of the main container */
+.block1 {
+    text-align: center;
+    width: 100%;
+    height: 300px;
+
+    /* maybe change */
+    padding-left: 15%;
+}
+
+/* second container inside of the main container */
+.block2 {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    height: 212px;
+    padding-top: 5%;
+
+    /* maybe change */
+    padding-right: 15%;
+}
+
+/* for the textfield input */
+.input2 {
+    font-size: 40px;
+    width: 20%;
+    height: 30%;
+}  
+
+/*  */
+.text {
+    font-size: 15px;
+    text-align: right;
+    color: white;
+}
+
+/* Guessing text */
+.letGuessing {
+    font-size: 35px;;
+}
+
+/* Score section */
+.scoreColor {
+    color: white;
+    font-size: 30px;
+}
+
+.highScoreColor {
+    color: white;
+    font-size: 30px;
+}
+
+/* End of middle section */
